@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="advancedandroid.toolbarsamples.NormalToolbarActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:background="?attr/colorPrimary"
+        android:gravity="bottom"
+        android:minHeight="?attr/actionBarSize"
+        android:paddingBottom="16dp"
+        app:navigationIcon="@drawable/ic_android_white_36dp"
+        app:popupTheme="@style/Theme.AppCompat.Light">
+
+    </android.support.v7.widget.Toolbar>
+
+</RelativeLayout>

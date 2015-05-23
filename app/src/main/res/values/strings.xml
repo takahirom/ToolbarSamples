@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolbarSamples</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_normal_toolbar">NormalToolbarActivity</string>
+    <string name="title_activity_expanded_toolbar">ExpandedToolbarActivity</string>
+</resources>
