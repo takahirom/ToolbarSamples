@@ -13,7 +13,7 @@
         android:gravity="bottom"
         android:minHeight="?attr/actionBarSize"
         android:paddingBottom="16dp"
-        app:navigationIcon="@drawable/ic_android_white_36dp"
+        app:navigationIcon="@drawable/ic_android_white_24dp"
         app:popupTheme="@style/Theme.AppCompat.Light">
 
     </android.support.v7.widget.Toolbar>
