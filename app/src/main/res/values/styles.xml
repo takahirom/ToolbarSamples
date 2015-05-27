@@ -13,6 +13,8 @@
 
         <item name="selectableItemBackground">?android:selectableItemBackground</item>
         <item name="selectableItemBackgroundBorderless">?android:selectableItemBackground</item>
+
+        <!-- ripple effect時の波紋の色 -->
         <item name="colorControlHighlight">@color/primary_dark</item>
     </style>
 
